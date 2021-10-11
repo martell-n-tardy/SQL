@@ -1,2 +1,2 @@
 # SQL
-This repository contains capstone projects, mini-projects and exercises completed in the SQL programming language.
+This repository contains links to mini-projects and exercises completed in the SQL programming language.
