@@ -1,6 +1,6 @@
 -- Github    : https://github.com/martell-n-tardy
 -- HR-Profile: https://www.hackerrank.com/mtardy888
--- Challenge : https://www.hackerrank.com/challenges/revising-the-select-query
+-- Challenge : https://www.hackerrank.com/challenges/revising-the-select-query/problem
 -- Max Score : 10
 
  
