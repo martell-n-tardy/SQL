@@ -7,7 +7,7 @@ This repository contains links to mini-projects and case studies completed in th
 * **A Drop in User Engagement:** A case study determining the cause of a dip in user engagement for Microsoft's social networking platform Yammer.
 * **Understanding Search Functionality:** A case study evaluating if the search engine for COMPANY should be revamped (and if so how) or should it remain the same.
 * **Validating A/B Test Results:** A case study about determine the validity of a new feature with extremely high performance scores for COMPANY.
-* **SparkSQL: Databricks Edition:** A mini-project applying PySpark DataFrames and MLib to construct classification models. I published the mini-project on Databricks and therefore it has been made public. *Please note, the link for this mini-project will take you to an external site outside of the Github platform.
-https://bit.ly/3thbzIy
+* **SparkSQL: Databricks Edition:** A mini-project applying PySpark DataFrames and MLib to construct classification models. I published the mini-project on Databricks and therefore it has been made public. 
+  https://bit.ly/3thbzIy
 
 
