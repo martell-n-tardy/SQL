@@ -9,5 +9,5 @@ This repository contains links to mini-projects and case studies completed in th
 * **Validating A/B Test Results:** A case study about determine the validity of a new feature with extremely high performance scores for COMPANY.
 
 ### DISTRIBUTED PROCESSING SYSTEMS (BIG DATA)
-* **USA Financial Census Data - SparkSQL Analysis:** A mini-project utilizing SparkSQL, PySpark, SparkDataFrames, and MLib to construct SparkML Pipelines for the development of two binary classification models to predict whether a citizen's income exceeds $50K/yr based on US Census data. This project was published on Databricks and therefore it has been made public through this external Github link. https://bit.ly/3thbzIy
+* **USA Financial Census Data - SparkSQL Analysis:** A mini-project utilizing SparkSQL, PySpark, SparkDataFrames, and MLib to construct SparkML Pipelines for the development of two binary classification models to predict whether a citizen's income exceeds $50K/yr based on US Census data. This project was published on Databricks and therefore it has been made public through this external Github link. https://bit.ly/3qhz0PR
 
