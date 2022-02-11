@@ -1,7 +1,7 @@
 # SQL & Databases
 This repository contains links to mini-projects and case studies completed in the SQL programming language. The material in this repository are seperated by emphasized skill for recruiter convenience.
 
-## SKILLS
+## CONTENTS
 * **Country Club:** A case study querying an external MySQL database through the PHPMyAdmin interface using a local SQLite instance to tackle a series of challenges on a database containing information about a country club.
   https://github.com/martell-n-tardy/Country-Club-SQL
 * **A Drop in User Engagement:** A case study determining the cause of a dip in user engagement for Microsoft's social networking platform Yammer.
