@@ -6,6 +6,7 @@ This repository contains links to mini-projects and case studies completed in th
 ## CONTENTS
 * **Country Club:** A case study querying an external MySQL database through the PHPMyAdmin interface using a local SQLite instance to tackle a series of challenges on a database containing information about a country club.
   https://github.com/martell-n-tardy/Country-Club-SQL
+* **Loyalty Rewards:** A case study querying an external MySQL database from a mobile gaming company to explore and solve the issues around breakage rate.
 * **A Drop in User Engagement:** A case study determining the cause of a dip in user engagement for Microsoft's social networking platform Yammer.
 * **Understanding Search Functionality:** A case study evaluating if the search engine for Microsoft should be revamped (and if so how) or should it remain the same.
 * **Validating A/B Test Results:** A case study about determine the validity of a new feature with extremely high performance scores for Mircosoft.
